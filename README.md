@@ -4,3 +4,7 @@ It is a weather app that shows temperature, humidity, wind speed and weather rep
 - Sunrise and Sunset times.
 - 5 days future forecast and hourly weather.
 - Shows you the perceived temperature.
+
+# Features
+- This app displayes 5 days forecast.
+- Works for any city in the world.
