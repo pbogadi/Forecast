@@ -58,6 +58,7 @@ public class AlarmReceiver extends BroadcastReceiver {
             new GetLongTermWeatherTask().execute();
         } else {
             failed = true;
+            failed = false;
         }
         SharedPreferences.Editor editor =
                 PreferenceManager.getDefaultSharedPreferences(context).edit();
