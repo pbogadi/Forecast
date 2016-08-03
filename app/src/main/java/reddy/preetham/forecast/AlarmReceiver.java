@@ -43,6 +43,7 @@ public class AlarmReceiver extends BroadcastReceiver {
             String interval = sp.getString("refreshInterval", "1");
             if (!interval.equals("0") && sp.getBoolean("backgroundRefreshFailed", false)) {
                 getWeather();
+                Log.d("","THis my development branch");
             }
         } else {
             getWeather();
