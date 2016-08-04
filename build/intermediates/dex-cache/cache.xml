@@ -2,67 +2,102 @@
 <items version="2" >
 
     <item
-        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.12\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a80c931e61178b546b913b513048525b7282a650.jar" />
+        sha1="3575e73a22dce98f0bdbcdb475ef55a84606a9a6">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\io.fabric.sdk.android-fabric-1.3.12_34dada2fb6514b2a0afa05643b975fca7d7e4f2a.jar" />
     </item>
     <item
-        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_5ffe6a58ac4b883e10720abd2361201b2477b165.jar" />
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_81cafb9ad99d03e6412be11ac328ea427e63a776.jar" />
     </item>
     <item
         jar="D:\Android_SDK_location\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_826e3e54a0c8f527060e9f4aabc0eeb70c10e8bc.jar" />
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_826e3e54a0c8f527060e9f4aabc0eeb70c10e8bc.jar" />
     </item>
     <item
-        jar="D:\Forecast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="23.0.2"
-        sha1="d87323212860e629ac2833e823a18ec00e222333">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\instant-run_aced24549f4f06de433ce8302f3541cd402f96ac.jar" />
-    </item>
-    <item
-        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_de63e43628f7b73b23dd063748857e685f493023.jar" />
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_92b9923fb12972a8efdec877764641e625f47bd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_9c911d31b4bf8a90314d2d12ef7d7ce452f46270.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_2511993de4dac145626307148132492004f4bd3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8e768ff30a8aa53dfe3678994badd7dce2a8026">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\instant-run_48e091ed828e68e89e870202b373a7e458e5e7db.jar" />
     </item>
     <item
         jar="C:\Users\BITTU\.gradle\caches\modules-2\files-2.1\com.google.android.apps.dashclock\dashclock-api\2.0.0\fe40ba5457e17502d11114f39b45e9dfe3f51c6d\dashclock-api-2.0.0.jar"
         jumboMode="true"
         revision="23.0.2"
         sha1="fe40ba5457e17502d11114f39b45e9dfe3f51c6d">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\dashclock-api-2.0.0_7be7c2b3ec59b1017a400640517f613b7ec28708.jar" />
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\dashclock-api-2.0.0_7be7c2b3ec59b1017a400640517f613b7ec28708.jar" />
     </item>
     <item
-        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\answers\1.3.8\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_ec74dbda2cb8aac1a3566287f1021cb850136e5f.jar" />
+        sha1="0c46a5a897439810b6c437ce188bd07d9d8dffb0">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-answers-1.3.8_7be1d48b8b894f3c24a42c8c6982d2f98199bf32.jar" />
     </item>
     <item
-        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_5e4c9cb532f3de3a53e70baab6f10b153112de1d.jar" />
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_787dd9327ea4629c24e7e76a66c35ecd4f70c0d3.jar" />
     </item>
     <item
-        jar="D:\Forecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\beta\1.2.1\jars\classes.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="ce115dbf59256cdc2ddc9999cf4e4a39b3890c71">
-        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9e1610b1ea05084437aa311aaaca40ab6c1d1fdf.jar" />
+        sha1="d2ce88db16786c9c2a839f1839af47a9a96dad17">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-beta-1.2.1_8b32480f95f7fb1e375fe9dbcaaaec5c65f418da.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics-core\2.3.10\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2f9a9b21b70965cde70f6eb8f2ee68794fb482e6">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-core-2.3.10_36637aca86ac221f63f4cfbdb15831f6ce4b10d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6c219308da5c2388c77744f57f9fed651710db2c">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_41f0620d010569ed339d32a15a87150d32d103e4.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\exploded-aar\com.crashlytics.sdk.android\crashlytics\2.6.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="99c0128e5e416cf65c7dc8465c1cb1d5fd7c4f92">
+        <dex dex="C:\Users\BITTU\Desktop\Forecast\app\build\intermediates\pre-dexed\debug\com.crashlytics.sdk.android-crashlytics-2.6.1_d7fb1ab81e8f46e883403a44af0c6fd2582a9ca6.jar" />
     </item>
 
 </items>

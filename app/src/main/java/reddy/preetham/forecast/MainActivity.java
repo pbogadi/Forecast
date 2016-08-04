@@ -35,6 +35,8 @@ import android.webkit.WebView;
 import android.widget.EditText;
 import android.widget.TextView;
 
+import com.crashlytics.android.Crashlytics;
+import io.fabric.sdk.android.Fabric;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
@@ -123,6 +125,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
         // Initiate activity
         super.onCreate(savedInstanceState);
+        Fabric.with(this, new Crashlytics());
         setContentView(R.layout.activity_scrolling);
         appView = findViewById(R.id.viewApp);
 
