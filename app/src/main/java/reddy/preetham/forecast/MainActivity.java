@@ -157,6 +157,8 @@ public class MainActivity extends AppCompatActivity implements LocationListener 
 
         destroyed = false;
 
+        //changes in branch1
+
         initMappings();
 
         // Preload data from cache
