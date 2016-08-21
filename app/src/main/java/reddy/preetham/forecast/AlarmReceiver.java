@@ -23,6 +23,7 @@ import java.util.Locale;
 
 import reddy.preetham.forecast.widgets.AbstractWidgetProvider;
 
+// new changes after ksrbigdata asked me to make some changes
 public class AlarmReceiver extends BroadcastReceiver {
 
     Context context;
