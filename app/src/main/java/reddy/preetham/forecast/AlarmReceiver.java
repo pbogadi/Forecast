@@ -23,6 +23,7 @@ import java.util.Locale;
 
 import reddy.preetham.forecast.widgets.AbstractWidgetProvider;
 
+// new changes after ksrbigdata asked me to make some changes
 public class AlarmReceiver extends BroadcastReceiver {
 
     Context context;
@@ -43,6 +44,7 @@ public class AlarmReceiver extends BroadcastReceiver {
             String interval = sp.getString("refreshInterval", "1");
             if (!interval.equals("0") && sp.getBoolean("backgroundRefreshFailed", false)) {
                 getWeather();
+                Log.d("","THis my development branch");
             }
         } else {
             getWeather();
@@ -58,6 +60,7 @@ public class AlarmReceiver extends BroadcastReceiver {
             new GetLongTermWeatherTask().execute();
         } else {
             failed = true;
+            failed = false;
         }
         SharedPreferences.Editor editor =
                 PreferenceManager.getDefaultSharedPreferences(context).edit();

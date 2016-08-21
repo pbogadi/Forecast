@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_a80c931e61178b546b913b513048525b7282a650.jar" />
+    </item>
+    <item
+        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_5ffe6a58ac4b883e10720abd2361201b2477b165.jar" />
+    </item>
+    <item
+        jar="D:\Android_SDK_location\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_826e3e54a0c8f527060e9f4aabc0eeb70c10e8bc.jar" />
+    </item>
+    <item
+        jar="D:\Forecast\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d87323212860e629ac2833e823a18ec00e222333">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\instant-run_aced24549f4f06de433ce8302f3541cd402f96ac.jar" />
+    </item>
+    <item
+        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_de63e43628f7b73b23dd063748857e685f493023.jar" />
+    </item>
+    <item
+        jar="C:\Users\BITTU\.gradle\caches\modules-2\files-2.1\com.google.android.apps.dashclock\dashclock-api\2.0.0\fe40ba5457e17502d11114f39b45e9dfe3f51c6d\dashclock-api-2.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fe40ba5457e17502d11114f39b45e9dfe3f51c6d">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\dashclock-api-2.0.0_7be7c2b3ec59b1017a400640517f613b7ec28708.jar" />
+    </item>
+    <item
+        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_ec74dbda2cb8aac1a3566287f1021cb850136e5f.jar" />
+    </item>
+    <item
+        jar="D:\Forecast\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_5e4c9cb532f3de3a53e70baab6f10b153112de1d.jar" />
+    </item>
+    <item
+        jar="D:\Forecast\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ce115dbf59256cdc2ddc9999cf4e4a39b3890c71">
+        <dex dex="D:\Forecast\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_9e1610b1ea05084437aa311aaaca40ab6c1d1fdf.jar" />
+    </item>
+
+</items>

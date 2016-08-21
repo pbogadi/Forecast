@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+this is the first file tchange in master
+=======
+this is the first file t.
+the change in branch 3
+>>>>>>> branch3
